@@ -6,3 +6,7 @@ Repositorio creado para practicar ramas, commits, Pull Requests y merge hacia st
 
 Nombre: Sebastian Aldo Rocha Veizaga
 Carrera: Ingenieria de Sistemas
+
+## Foto personal
+
+![Foto personal](images/foto-personal.jpeg)
